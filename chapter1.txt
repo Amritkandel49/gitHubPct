@@ -1,1 +1,1 @@
-This is text file for chapter 1.
+Something is changed in chapter 1 for new branch
