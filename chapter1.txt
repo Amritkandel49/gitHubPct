@@ -1,1 +1,1 @@
-Something is changed in chapter 1 for new branch
+Something is changed in chapter 1 for new branch. I made some changes for new-branch.
